@@ -1,0 +1,36 @@
+.header-language-background{
+    color: #FFF;
+    background-color: #22313f;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.lifetime-exchange{
+
+    text-align: center;
+}
+
+.home-site-features {
+    display: inline-block;
+    /* padding-top: 5px; */
+    /* display: flex; */
+    gap: 20px;
+}
+
+li{
+    list-style: none;
+    align-items: center;
+    display: flex;
+    gap: 5px;
+}
+
+.home-site-features li {
+    float: left;
+    font-size: 12px;
+    margin-right: 8px;
+    gap: 5px;
+    text-transform: uppercase;
+    vertical-align: middle;
+    line-height: 21px;
+    font-weight: bold;
+}
